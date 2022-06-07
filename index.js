@@ -1,7 +1,3 @@
-const express = require('express');
-path = require('path');
-app=express();
-puerto =3000;
 const telegrambot = require('node-telegram-bot-api');
 const request = require('request');
 const fs = require('fs');
